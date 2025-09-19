@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Local data & logs
+*.db
+*.sqlite
+*.sqlite3
+logs/
+.DS_Store
+
+# Secrets
+.env
+*.key
+
+#files
+secrets.json

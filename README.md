@@ -100,4 +100,4 @@ The application follows a clear, multi-step process to answer a user's question:
 7.  **Display Results:** The `app.py` script displays the final answer, the SQL query, and the raw database results in the Streamlit interface.
 
 # Screenshot
-![Screenshot.png]
+[Screenshot.png]
